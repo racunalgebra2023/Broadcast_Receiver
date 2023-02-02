@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Broadcast Receiver</string>
+    <string name="cool_channel_name">My Cool Channel</string>
+    <string name="cool_channel_description">Desc.....</string>
+</resources>
